@@ -1,7 +1,7 @@
 {
     "employee": [
       {
-        "name": "Zaid new",
+        "name": "mohit kumar new",
         "gender": "male",
         "departMent": [
           "HR"
@@ -13,7 +13,7 @@
         "profileUrl": "../assets/profile-images/Ellipse 1.png"
       },
       {
-        "name": "Zaid test",
+        "name": "mohit kumar test",
         "gender": "male",
         "departMent": [
           "HR"
@@ -25,7 +25,7 @@
         "profileUrl": "../assets/profile-images/Ellipse 1.png"
       },
       {
-        "name": "zaid",
+        "name": "mohit",
         "gender": "male",
         "departMent": [
           "HR"
